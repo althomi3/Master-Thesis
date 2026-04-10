@@ -1,4 +1,4 @@
-# Master_Thesis: Recreation for All - Improving Access to Nature-Based Stays for Public Transport Users through Platform Design
+# Master Thesis: Recreation for All - Improving Access to Nature-Based Stays for Public Transport Users through Platform Design
 
 This repository contains research material, data, and reports other researchers and practitioners can use.
 If you use the research material, please quote the materials.
