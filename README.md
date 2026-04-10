@@ -6,8 +6,8 @@ Hey, this is Alischa, the author of this Master's thesis.
 With this repository, I share supplementary material for my Master's thesis. It includes data, scripts, and reports of the user tests that were conducted within the scope of the thesis project. Feel free to use any of the research material. Please remember to quote the material properly.
 
 ### Available materials in this Github repo
+The src file includes all data required to execute the Python script. 
 To run the human-friendly data analysis report, open the file main.ipynb.
-These materials and data are available upon request:
 
 ### Materials available upon request
 I am very happy to share the full set of materials of the research, for example, for a study replication. Please reach out through this email address: alischa.thomas@outlook.de. The following materials are available upon request:
