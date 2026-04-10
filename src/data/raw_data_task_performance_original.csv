@@ -1,14 +1,15 @@
-﻿Variable,P1,P2,P3,P4,P5,P6,P7
+﻿
+Variable,P1,P2,P3,P4,P5,P6,P7
 Task solved,T,F,T,T,T,T,T
 Generic min travel tolernace in min,60,60,60,90,15,30,40
 Generic max travel tolernace in min,180,210,240,420,120,150,180
 Expected travel time for the trip,150,150,240,250,120,80,180
-Actual travel time trip from checked by researcher after test,162,207,271,296,153,85,184
+Actual travel time trip (checked by researcher after test),162,207,271,296,153,85,184
 Delta of expected travel time trip - actual travel time trip,12,57,31,46,33,5,4
 Route type,Street-to-train station,City district-to-address,City-to-address,Station-to-station,Station-to-station,City-to-address,City-to-village
 Cognitive process type,Schematic,Search-process-based,Schematic,Schematic,Schematic,Schematic,Search-process-based
 Task start,0:01:45,0:02:45,0:00:55,0:02:50,0:02:00,0:02:40,0:02:40
 Task goal reached,0:15:48,0:33:15,0:19:18,0:25:15,0:10:57,0:23:30,0:21:50
-Time needed to reach task goal,0:14:03,0:30:30,0:18:23,0:22:25,0:08:57,0:20:50,0:19:10
+Time needed to reach task goal,0:14:03,0:19:15,0:18:23,0:22:25,0:08:57,0:20:50,0:19:10
 Platform count (incl. Booking),2,7,4,6,4,3,5
 SMEQ Results,32,85,32,25,38,30,57
