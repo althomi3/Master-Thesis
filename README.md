@@ -1,6 +1,6 @@
 # Master Thesis: Recreation for All - Improving Access to Nature-Based Stays for Public Transport Users through Platform Design
 ## Author: Alischa Thomas
-## Aalto University, Master's in International Design Business Management, 2026
+## Aalto University, Master's Thesis in International Design Business Management, 2026
 
 Hey, this is Alischa, the author of this Master's thesis. 
 With this repository, I share supplementary material for my Master's thesis. It includes data, scripts, and reports of the user tests that were conducted within the scope of the thesis project. Feel free to use any of the research material. Please remember to quote the material properly.
